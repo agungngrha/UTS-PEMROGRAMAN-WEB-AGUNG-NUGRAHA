@@ -1,0 +1,17 @@
+ULANGAN TENGAH SEMESTER 
+PEMROGRAMAN WEB
+
+Nama	: Agung Nugraha
+Kelas	: IF22A
+Nim	: 22416255201259
+
+1. Framework adalah kerangka kerja yang digunakan untuk mengembangkan aplikasi berbasis desktop maupun website 
+
+2. 1.Tema yang dikerjakan adalah Laundry
+   2. Anggota kelompok: 1. Agy Hariansyah (22416255201275) (Dokumentasi/Analisis)
+			 2. Agung Nugraha (22416255201259) (Desain/Codingan)
+			 3. Rio Vega Perdana (22416255201226) (Database)
+
+   3. Berdasarkan wawancara kemarin persmasalahan yang didapat yaitu laundry tidak menyediakan sistem antar jemput, kendala lainnya ada pakaian customer terbawa ke customer lain dan customer harus datang ke toko.
+
+      Solusinya: kami akan membantu membuatkan sistem agar dapat booking laundry secara online. 
